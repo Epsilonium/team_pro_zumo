@@ -25,9 +25,9 @@ const char GoT [] PROGMEM =
   "!T87 L8 V8 gce-16f16 gce-16f16 gce-16f16"
   " gce16f16gce16f16gce16f16gce16f16g4."
   " L4 g.c.e-16f16gce-16f16"
-  " L8 d<g<b-16c16 d<g<b-16c16 d<g<b-16c16 d<g<b-16c16d4."
+  " L8 d<g<b-16c16 d<g<b-16c16 d<g<b-16c16d4."
   " L4 f.<b-.e-16d16fb-e-16d16"
-  " O3 L8 >cfa-16b-16 >cfa-16b-16 >cfa-16b-16 >cfa-16b-16>c4.";
+  " O3 L8 >cfa-16b-16 >cfa-16b-16 >cfa-16b-16>c4.";
   
 void patternDriving() {
   btnAIsPressed = buttonA.getSingleDebouncedRelease();
